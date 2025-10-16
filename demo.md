@@ -63,4 +63,4 @@ You can use, modify, and share them freely — just give proper credit with a li
 
 **Credit Example:**
 ```html
-Template by [https://temvato.blogspot.com/](Temvato)
+Template by [Temvato]([Temvato](https://temvato.blogspot.com/))
