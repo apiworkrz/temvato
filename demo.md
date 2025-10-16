@@ -62,5 +62,5 @@ All templates, themes, and assets on **Temvato** are shared under the **Creative
 You can use, modify, and share them freely — just give proper credit with a link back to our site.
 
 **Credit Example:**
-```html
-Template by [Temvato]([Temvato](https://temvato.blogspot.com/))
+Template by [Temvato](https://temvato.blogspot.com/)
+
